@@ -4,7 +4,7 @@ description: >
   串口设备调试助手。当用户需要通过串口连接设备、发送 AT 命令、读取设备数据、
   执行设备上的 shell 命令（如 cd、./app）、获取 SylixOS/Linux 设备返回信息时触发。
   涉及串口通信、串口调试、COM 口操作、设备命令执行都应该使用此技能。
-  串口 MCP Server 位于 E:/650IDE/workspace/18ws_100tai/mcp_serial_server/serial_mcp_server.py，
+  串口 MCP Server 位于 E:/xxx/mcp_serial_server/serial_mcp_server.py，
   已在 ~/.claude/.mcp.json 中全局配置，新会话中 mcp 工具已自动就绪。
 ---
 
