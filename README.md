@@ -1,6 +1,7 @@
-# Serial Port MCP 快速上手指南
+# sylixos Serial Port MCP 快速上手指南
 
 本仓库提供基于 Model Context Protocol (MCP) 的串口通信能力，可连接 SylixOS/Linux 嵌入式设备进行调试。
+提供SylixOS shell 命令概览，协助 SylixOS 通过串口进行调试。
 
 ---
 
@@ -17,7 +18,7 @@ serial-port-mcp/
 │   ├── SKILL.md                 # 技能说明
 │   ├── AGENTS.md                # Agent 使用指南
 │   └── SylixOS_Shell_Reference.md # SylixOS 命令参考
-└── MCP_AND_SKILL_REGISTRATION.md # 本文档
+└── README.md # 本文档
 ```
 
 ---
