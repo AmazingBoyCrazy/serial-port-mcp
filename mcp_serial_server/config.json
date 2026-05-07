@@ -1,0 +1,9 @@
+{
+  "serial": {
+    "default_baudrate": 115200,
+    "default_timeout": 1.0,
+    "default_bytesize": 8,
+    "default_parity": "N",
+    "default_stopbits": 1
+  }
+}

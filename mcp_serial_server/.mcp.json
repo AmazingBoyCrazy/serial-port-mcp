@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "serial-port": {
+      "command": "python",
+      "args": ["E:/650IDE/workspace/18ws_100tai/mcp_serial_server/serial_mcp_server.py"]
+    }
+  }
+}
